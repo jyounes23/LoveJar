@@ -1,6 +1,6 @@
-# JayBot
+# LoveJar
 
-JayBot is a Python-based graphical chatbot application that greets users with a splash screen and provides an interactive experience via a custom Tkinter GUI. It utilizes external image assets and a structured folder for messages to deliver a them to a loved one or a friend.
+LoveJar is a Python-based graphical chatbot application that greets users with a splash screen and provides an interactive experience via a custom Tkinter GUI. It utilizes external image assets and a structured folder for messages to deliver a them to a loved one or a friend.
 
 ## Features
 
