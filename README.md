@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-To run JayBot:
+To run LoveJar:
 ```bash
 python3 jaybotv2.py
 ```
